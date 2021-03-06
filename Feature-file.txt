@@ -1,1 +1,2 @@
 Feature rich content
+Another feature added
